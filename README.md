@@ -107,7 +107,6 @@ Matricula_Disciplina 1 ─── N Notas
 ## Tecnologias utilizadas
 
 - SQL;
-- MySQL;
 - MySQL Workbench;
 - brModelo.
 
@@ -116,7 +115,7 @@ Matricula_Disciplina 1 ─── N Notas
 1. Faça o download ou clone este repositório;
 2. Abra o MySQL Workbench;
 3. Conecte-se a uma instância do MySQL;
-4. Abra o arquivo `sql/banco_escola.sql`;
+4. Abra o arquivo `banco_escola.sql`;
 5. Execute o script completo;
 6. Atualize a lista de schemas;
 7. Consulte as tabelas criadas para verificar os registros.
@@ -140,4 +139,4 @@ Todos os dados apresentados neste projeto são fictícios e foram utilizados exc
 
 ## Autoria
 
-Desenvolvido por **Larissa da Silva Santos** como atividade acadêmica da disciplina de Banco de Dados.
+Desenvolvido por **Larissa Santos** como atividade acadêmica da disciplina de Banco de Dados.
