@@ -41,7 +41,7 @@ Conversão do modelo conceitual para uma estrutura relacional, com definição d
 
 Implementação do banco de dados no MySQL por meio de comandos SQL para criação das tabelas, relacionamentos e restrições de integridade.
 
-[Visualizar o script SQL](sql/banco_escola.sql)
+[Visualizar o script SQL](banco_escola.sql)
 
 ## Entidades
 
